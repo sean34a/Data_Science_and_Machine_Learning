@@ -1,3 +1,3 @@
-# Testrepo
+# Data_Science_and_Machine_Learning_Capstone_Project
 
-Test editing the file
+Data Science and Machine Learning Capstone Project for IBM Python Data Science Professional Certificate Program.
